@@ -5,7 +5,7 @@
 | [1986-2017.md](1986-2017.md) | History of things until the first Transformer |
 | [2017-2020.md](2017-2020.md) | Transformer upto GPT3 |
 | [metrics.md](metrics.md) | Common metrics in model evaluation |
-| [definition.md](definition.md) | Multi-task, Curriculum and Meta Learning  |
+| [definition.md](definitions.md) | Multi-task, Curriculum and Meta Learning  |
 | [survey_01.md](survey_01.md) | Notes on the paper: "A Survey of Large Language Models" |
 
 
